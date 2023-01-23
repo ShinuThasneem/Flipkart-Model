@@ -1,0 +1,22 @@
+#search{
+    width: 300px;
+}
+#img1{
+    height: 50px;
+}
+nav{
+    background-color:rgb(71, 109, 237);
+    
+
+}
+#icon{
+    color:rgb(238, 170, 13);
+}
+#cart{
+    color: aliceblue;
+    font-size: 40px;
+    float: right;
+    /* width: 15px; */
+    /* padding-right: 500px; */
+    
+}
